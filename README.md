@@ -15,7 +15,7 @@ The theme is easy to use, practical, and powerful. Check our growing library of 
 
 Take advantage of the high-performance that comes with a fantastic user experience.
 You can import the demo configuration, including the theme settings, content, menus, widgets, and more, with just a single click, much like our theme demos. For developing sites, this is a time saver. AlleyThemes does not require you to be a web development expert in designing your creative website.
-Download:https://alleythemes.com/home-services/
+Download:https://alleythemes.com/home-services/ or https://alleythemes.com/home-services-pro
 Documentation:https://doc.alleythemes.com/
 
 == Installation ==
